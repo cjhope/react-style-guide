@@ -22,7 +22,7 @@ You'd think this one is basic, but you'd be surprised...
 var StupidComponent = React.createClass({
 	render: function () {
 		<div>
-			<h1>I'm written using dated syntax!</h1>
+			<h1>I am written using dated syntax!</h1>
 		</div>
 	}
 });
