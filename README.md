@@ -33,7 +33,7 @@ var StupidComponent = React.createClass({
 class AwesomeComponent extends React.Component {
 	render () {
 		<div>
-			<h1>Now your friends will think you're cool</h1>
+			<h1>Now your friends will think you are so cool</h1>
 		</div>
 	}
 }
